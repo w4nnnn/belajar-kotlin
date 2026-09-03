@@ -1,0 +1,11 @@
+# Build & Compilation Artifacts
+*.jar
+*.class
+.gradle/
+build/
+bin/
+out/
+.idea/
+*.iml
+.omo/
+
